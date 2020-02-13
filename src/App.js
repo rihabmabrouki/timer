@@ -1,7 +1,8 @@
 import React  from 'react';
 import './App.css';
 // import Timer from "./components/timerr";
-import Time from './components/time';
+// import Time from './components/time';
+import Timer  from './components/test';
 
 
 function App() {
@@ -9,8 +10,8 @@ function App() {
     <div className="App">
      
      {/* <Timer/> */}
-     <Time/>
-
+     {/* <Time/> */}
+<Timer />
     </div>
   );
 }

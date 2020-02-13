@@ -19,7 +19,7 @@
 //   render() {
 //     return (
 //       <div>
-//         <h3>{this.state.timer}</h3>
+//         
 //         <button onClick={this.start}>
 //           {this.state.start ? "start" : "stop"}
 //         </button>
